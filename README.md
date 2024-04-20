@@ -20,5 +20,6 @@
 
 ---
 
-<h7>Reload the page and get a new anecdote on the topic of programming ;)</h7>
+<h7>
+Reload the page and get a new anecdote on the topic of programming ;)</h7>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
