@@ -1,6 +1,6 @@
-## What's up 🏎️
+## What's up 🏎️  <img src="https://i.imghippo.com/files/Sagzs1713626521.png" title="K1" alt="K1s" width="25"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=1000&color=F7F2C2FF&random=false&width=435&lines=Welcome+to+Kisel's+Github+profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=1000&color=E7AF4BFFx&random=false&width=435&lines=Welcome+to+Kisel's+Github+profile..)](https://git.io/typing-svg)
 ---
 <div id="header" align="start">
   <img src="https://media1.tenor.com/m/O9FsWU1g6l8AAAAC/rock-and-roll-awesome.gif" width="400"/>
