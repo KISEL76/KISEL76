@@ -1,27 +1,38 @@
-## What's up 🏎️  <img src="https://i.imghippo.com/files/Sagzs1713626521.png" title="K1" alt="K1s" width="25"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=1000&color=E7AF4BFFx&random=false&width=435&lines=Welcome+to+my+Github+profile..)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&pause=1000&color=E7AF4BFFx&random=false&width=435&lines=Welcome+to+Kisel's+Github+profile..)](https://git.io/typing-svg)
----
 <div id="header" align="start">
-  <img src="https://media1.tenor.com/m/O9FsWU1g6l8AAAAC/rock-and-roll-awesome.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/O9FsWU1g6l8AAAAC/rock-and-roll-awesome.gif" width="450"/>
 </div>
 
-### Technologies:
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-plain.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/373819/makefile.svg"  title="Makefile" alt="Makefile" width="40" height="40"/>&nbsp;  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg"  title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354243/qt.svg"  title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cmake/cmake-original.svg"  title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg"  title="bash" alt="bash" width="40" height="40"/>&nbsp;   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/><p></p>
+## 👋 What's up
+
+- **🧑‍💻 My name is Vladimir Kiselev. I'm beginner backend engineer and I'm currently looking for a job.**
+- **📚 I study now at the Russian Technology University MIREA in Moscow and School21 by Sber for developers**
+- **🏋️‍♂️ I’m currently working on a personal projects and staying focus on improving my skills as a developer.**
+- **📬 My E-mail: K1SEL76@yabdex.ru**
+
+## 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354243/qt.svg" title="Qt" alt="Qt" width="70" height="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" title="Elasticsearch" alt="Elasticsearch" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp
+</p>
+
+<div id="stats" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KISEL76&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
----
-
-<h7>
-Reload the page and get a new anecdote on the topic of programming ;)</h7>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+## 🤠 Reload the page and get a new anecdote on the topic of programming ;) 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
