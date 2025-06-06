@@ -9,7 +9,7 @@
 - **🧑‍💻 My name is Vladimir Kiselev. I'm beginner backend engineer and I'm currently looking for a job.**
 - **📚 I study now at the Russian Technology University MIREA in Moscow and School21 by Sber for developers**
 - **🏋️‍♂️ I’m currently working on a personal projects and staying focus on improving my skills as a developer.**
-- **📬 My E-mail: K1SEL76@yabdex.ru**
+- **📬 My E-mail: K1SEL76@yandex.ru**
 
 ## 🛠️ Languages & Technologies
 
