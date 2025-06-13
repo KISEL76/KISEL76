@@ -10,6 +10,7 @@
 - **📚 I study now at the Russian Technology University MIREA in Moscow and School21 by Sber for developers**
 - **🏋️‍♂️ I’m currently working on a personal projects and staying focus on improving my skills as a developer.**
 - **📬 My E-mail: K1SEL76@yandex.ru**
+- **📝 My CV: [kisel76.ru](https://kisel76.ru "My CV")**
 
 ## 🛠️ Languages & Technologies
 
