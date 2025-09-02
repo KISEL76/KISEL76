@@ -25,12 +25,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" title="Elasticsearch" alt="Elasticsearch" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apachekafka/apachekafka-original.svg" title="Kafka"                      alt="Kafka" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="70" height="70"/>&nbsp
 </p>
 
 <div id="stats" align="left">
