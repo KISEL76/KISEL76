@@ -30,6 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="70" height="70"/>&nbsp
 </p>
 
 <div id="stats" align="left">
