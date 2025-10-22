@@ -6,9 +6,10 @@
 
 ## 👋 What's up
 
-- **🧑‍💻 My name is Vladimir Kiselev. I’m backend engineer currently looking for a job.**
+- **🧑‍💻 My name is Vladimir Kiselev and I’m backend engineer.**
 - **📚 I am currently studying for a bachelor's degree at the Russian Technological University MIREA in my 4th year.**
 - **🧑‍🎓 School 21 by Sber alumni (alias École 42).**
+- **🏋️‍♂️ Triathlete and just a man who loves a good challenge.**
 - **📬 E-mail: K1SEL76@yandex.ru**
 - **📝 CV: [kisel76.ru](https://kisel76.ru "My CV")**
 
